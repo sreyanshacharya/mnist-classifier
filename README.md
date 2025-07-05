@@ -79,7 +79,7 @@ python main-callback.py
 ## 🔮 **Next Steps**
 
 - Implement **CNN architecture** for higher accuracy.
-- Use the **Fashion MNIST** dataset.
+- Use another included **Fashion MNIST** dataset.
 
 ---
 
