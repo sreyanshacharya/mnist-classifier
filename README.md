@@ -44,7 +44,7 @@ The **callback version** uses Keras’ Callback to:
 | Version  | Test Accuracy           |
 | -------- | ----------------------- |
 | Basic    | ~99.06% after 10 epochs |
-| Callback | ~%                      |
+| Callback | ~97.33% ater 3 epochs   |
 
 ---
 
