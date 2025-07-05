@@ -50,14 +50,14 @@ The **callback version** uses Keras’ Callback to:
 
 ## **How to Run**
 
-1. _Clone the repo_
+1. _Clone the repo :_
    git clone https://github.com/sreyanshacharya/mnist-classifier.git
    cd mnist-classifier
 
-2. _Install dependencies_
+2. _Install dependencies :_
    pip install -r requirements.txt
 
-3. _Run the Scripts_
+3. _Run the Scripts :_
    (for the base version):
    python main.py
 
