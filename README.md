@@ -86,5 +86,8 @@ python main-callback.py
 ### ✨ **Author**
 
 **Sreyansh Acharya (bread)** – _CS Student and aspiring ML Engineer with interests in machine learning, neural networks and rock music. 🤘🏻_
+**Connect With Me** - 
+sreyanshacharyaa@gmail.com
+github.com/sreyanshacharya
 
 ---
