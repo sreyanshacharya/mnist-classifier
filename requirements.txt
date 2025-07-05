@@ -1,0 +1,43 @@
+absl-py @ file:///C:/b/abs_14wchyjaia/croot/absl-py_1714140489450/work
+astunparse==1.6.3
+brotlicffi @ file:///C:/b/abs_f4lixvzmxt/croot/brotlicffi_1736183286104/work
+certifi @ file:///C:/b/abs_43o9lm92p9/croot/certifi_1750863864870/work/certifi
+cffi @ file:///C:/b/abs_29_b57if3f/croot/cffi_1736184144340/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+flatbuffers @ file:///C:/b/abs_7f2_85svxz/croot/python-flatbuffers_1722369110965/work
+gast @ file:///tmp/build/80754af9/gast_1637837472536/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///C:/b/abs_98_4ysdoqy/croot/grpc-split_1742490255707/work
+h5py @ file:///C:/b/abs_29off2a8q5/croot/h5py_1750863017528/work
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+keras @ file:///C:/b/abs_11w77e3moj/croot/keras_1733152624991/work
+Markdown @ file:///C:/b/abs_f9hbi7znfr/croot/markdown_1746114643651/work
+markdown-it-py @ file:///C:/b/abs_a5bfngz6fu/croot/markdown-it-py_1684279915556/work
+MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
+mdurl @ file:///C:/ci_311/mdurl_1676442676678/work
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+ml_dtypes @ file:///C:/b/abs_bb65qlqx2y/croot/ml_dtypes_1745327865461/work
+mpi4py @ file:///C:/b/abs_2c72fs0pz9/croot/mpi4py_1749458512296/work
+namex @ file:///C:/b/abs_cdq28t3827/croot/namex_1715206998407/work
+numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp311-cp311-win_amd64.whl#sha256=46eb5850478cda64bda6d2f2d3d6ad8ceeb7cc168b83532e4f9dbbcb42e22ab2
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+optree @ file:///C:/b/abs_bci6vc6cm2/croot/optree_1742210211336/work
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+protobuf @ file:///C:/b/abs_b5v84rwh56/croot/protobuf_1742419721750/work/bazel-bin/python/dist/protobuf-5.29.3-cp311-abi3-win_amd64.whl#sha256=98d5fe0a5675a4616b668d93953a0e9c6779522883c382ce8d72bf2eff5ec7c5
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments @ file:///C:/b/abs_e4bg5vh5j_/croot/pygments_1744667628203/work
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+requests @ file:///C:/b/abs_0b3h9d_724/croot/requests_1750426345668/work
+rich @ file:///C:/b/abs_8b92fzmygg/croot/rich_1732638991774/work
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+tensorboard @ file:///C:/b/abs_9dbnu1m47e/croot/tensorboard_1745941831333/work/tensorboard-2.18.0-py3-none-any.whl#sha256=107ca4821745f73e2aefa02c50ff70a9b694f39f790b11e6f682f7d326745eab
+tensorboard_data_server @ file:///C:/b/abs_96oxnengxy/croot/tensorboard-data-server_1724172563443/work/tensorboard_data_server-0.7.0-py3-none-any.whl#sha256=00b1de94c170ed7083c55e13045157aaccb8959b65ff667c9743b382bcbeeb48
+tensorflow_cpu==2.18.1
+termcolor @ file:///C:/ci_311/termcolor_1676439504863/work
+typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
+urllib3 @ file:///C:/b/abs_393g1ayee_/croot/urllib3_1750775481226/work
+Werkzeug @ file:///C:/b/abs_c7bupijx2_/croot/werkzeug_1737448709012/work
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+wrapt @ file:///C:/b/abs_68gzx33lzh/croot/wrapt_1736543196433/work
